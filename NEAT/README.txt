@@ -1,0 +1,1 @@
+This projects is designed to have a car learn to drive a course based on a machine learning algorythm known as Neural Evolution with Augmenting Topology, or NEAT for short. My code is based on a program written by a Youtube known as Sethbling who wrote his algorythm in the Lua programming language (this code is provided in the folder).
